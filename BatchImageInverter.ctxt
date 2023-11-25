@@ -1,10 +1,12 @@
 #BlueJ class context
 comment0.target=BatchImageInverter
-comment0.text=\r\n\ Write\ a\ description\ of\ BatchImageInverter\ here.\r\n\ \r\n\ @author\ Vaishali\ Vyas\r\n\ @version\ 2023,\ November\ 25th\r\n
+comment0.text=\r\n\ The\ BatchImageInverter\ is\ a\ Java\ application\ \r\n\ designed\ for\ creating\ photographic\ negatives\ of\ images\ in\ batch.\ \r\n\ It\ processes\ selected\ images,\ inverting\ their\ colors,\ and\ \r\n\ saves\ the\ altered\ images\ with\ a\ new\ filename\ in\ a\ specified\ directory,\ preserving\ the\ original\ images.\r\n\ \r\n\ @author\ Vaishali\ Vyas\r\n\ @version\ 2023,\ November\ 25th\r\n
 comment1.params=inImage
 comment1.target=edu.duke.ImageResource\ invertImage(edu.duke.ImageResource)
 comment2.params=
 comment2.target=void\ testInvertImage()
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
+comment3.params=
+comment3.target=void\ selectAndInvert()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
